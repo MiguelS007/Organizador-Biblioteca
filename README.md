@@ -24,6 +24,12 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Participants
+
+[<img src="https://avatars3.githubusercontent.com/u/61780220?s=400&u=f70299eb4ea11b4db2643818c9dfe4185e5898c7&v=4" width="75px;"/>](https://github.com/MiguelS007)
+
+[Miguel Sodré](https://github.com/MiguelS007)
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
